@@ -10,7 +10,6 @@ import java.sql.SQLException;
 import java.util.Scanner;
 
 public class MBTI_sql {
-    String questions[];
     int answers[][];
     String MBTI;
     double Scores[] = new double[4];
